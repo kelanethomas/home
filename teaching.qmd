@@ -22,7 +22,7 @@ University of North Carolina at Chapel Hill, Department of Statistics and Operat
 
 Fully redesigned the course by transitioning all instructional materials from R to Python. Created lectures, labs, and projects that developed an end-to-end data analysis skill set—from data acquisition and wrangling to modeling and communication. Topics included regression, clustering, classification, algorithmic thinking, and analysis of non-standard data (networks, text). Integrated hands-on exercises to build computational proficiency and emphasize real-world applications.
 
-#### STOR 455: *Methods of Data Analysis* (Fall 2024, Summer II 2025)
+#### STOR 455: *Methods of Data Analysis* (Fall 2024, Summer II 2025, Summer II 2026)
 
 Taught an upper-level statistics course covering topics such as inference, two-sample comparisons, correlation, regression modeling, and analysis of variance. Designed lectures and assessments to strengthen students' understanding of statistical modeling and diagnostics, while guiding them in applying methods to real datasets using modern statistical software.
 

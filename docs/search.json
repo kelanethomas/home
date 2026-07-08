@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "vsac-2026.html",
+    "href": "vsac-2026.html",
+    "title": "ASA Virtual Sports Analytics Conference 2026",
     "section": "",
-    "text": "&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"images/kendall_thomas_cv.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
+    "text": "“Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach” — ASA Virtual Sports Analytics Conference, April 2026, Virtual\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"images/vsac_thomas_movement_dynamics.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download Slides"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "education.html#davidson-college",
+    "href": "education.html#davidson-college",
+    "title": "Education",
+    "section": "Davidson College",
+    "text": "Davidson College"
+  },
+  {
+    "objectID": "csas-2026.html",
+    "href": "csas-2026.html",
+    "title": "Connecticut Sports Analytics Symposium 2026",
     "section": "",
-    "text": "I entered college in the fall of 2015 not entirely sure what I wanted to study — I knew I was good at math, and I had committed to play soccer at Davidson College. However, before my freshman season, I tore my ACL, and over the next few years, I would re-tear it four more times — five ACL reconstructions in total.\nDuring my freshman year, I sought out Dr. Tim Chartier and joined ’Cats Stats, Davidson’s sports analytics group. Through ’Cats Stats, I discovered that I could make an impact for my team without physically being on the field — by using data to analyze performance and strategy.\n\n\n\n\nTo deepen that work, I began taking computer science courses alongside my math major, ultimately double majoring in Mathematics and Computer Science. I interned with Nike and Athlete Intelligence, where I explored the intersection of performance data, technology, and athlete development.\n\n\n\n\n\n\n\n\nAfter graduating, I joined Microsoft as a Software Engineer. I worked on the Azure Data Query Processing Team, focusing on query performance and leading supportability efforts. While I learned a tremendous amount about large-scale data systems, I missed the sports component — and I missed teaching.\n\n\n\n\nThat realization led me to pursue a Ph.D. in Statistics and Operations Research (STOR) at UNC Chapel Hill. During my Ph.D., I’ve taught several upper-level courses and fully redesigned STOR 320: Methods and Models of Data Science to introduce a Python-based section. I’ve found that I love teaching — especially where coding, statistics, and real-world application intersect.\n\n\n\n\n\n\n\n\nMy research centers on statistical methods in sports analytics, specifically modeling movement dynamics in female athletes to improve performance and reduce injury risk. I also lead the Sports Analytics Intelligence Lab (SAIL) at UNC, mentoring students working on projects for UNC’s athletic teams.\n\n\n\n\nWhen I’m not teaching or working on research, you’ll usually find me hiking, working out, or spending time with my dog, Willow. My fiancé, Eric, is a baseball coach at UVA, and we’re both originally from the Charlotte area. I’ve always enjoyed staying active — whether that’s lifting, cycling, or exploring new trails."
+    "text": "“Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach” — Connecticut Sports Analytics Symposium, April 2026, Storrs, CT\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"images/thomas_movement_dynamics_csas.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download Slides"
   },
   {
     "objectID": "cmsac-2024.html",
@@ -39,7 +46,7 @@
     "href": "teaching.html#teaching-experience",
     "title": "Teaching",
     "section": "Teaching Experience",
-    "text": "Teaching Experience\nUniversity of North Carolina at Chapel Hill, Department of Statistics and Operations Research (STOR): Fall 2022–Present\n\nInstructor of Record\n\nSTOR 320: Models and Methods of Data Science (Summer II 2024, Spring 2025, Spring 2026)\nFormerly titled, until Spring 2025: Introduction to Data Science\nFully redesigned the course by transitioning all instructional materials from R to Python. Created lectures, labs, and projects that developed an end-to-end data analysis skill set—from data acquisition and wrangling to modeling and communication. Topics included regression, clustering, classification, algorithmic thinking, and analysis of non-standard data (networks, text). Integrated hands-on exercises to build computational proficiency and emphasize real-world applications.\n\n\nSTOR 455: Methods of Data Analysis (Fall 2024, Summer II 2025)\nTaught an upper-level statistics course covering topics such as inference, two-sample comparisons, correlation, regression modeling, and analysis of variance. Designed lectures and assessments to strengthen students’ understanding of statistical modeling and diagnostics, while guiding them in applying methods to real datasets using modern statistical software.\n\n\n\nTeaching Assistant / Lab Instructor\n\nSTOR 538: Sports Analytics (Spring 2024)\nSupported students in applying data science methods to real-world sports problems. Guided project development, held office hours, and provided feedback to strengthen both technical implementation and analytical interpretation.\n\n\nSTOR 120: Introduction to Data Science (Fall 2023, Spring 2023)\nLed weekly lab sessions to reinforce lecture material through hands-on coding in Python. Designed and graded lab assignments, and provided one-on-one support during office hours to help students build confidence with computational tools and statistical reasoning.\n\n\nSTOR 455: Methods of Data Analysis (Fall 2022)\nAssisted students in applying regression and inference methods using R. Held office hours and provided individualized support to strengthen statistical understanding and coding proficiency."
+    "text": "Teaching Experience\nUniversity of North Carolina at Chapel Hill, Department of Statistics and Operations Research (STOR): Fall 2022–Present\n\nInstructor of Record\n\nSTOR 320: Models and Methods of Data Science (Summer II 2024, Spring 2025, Spring 2026)\nFormerly titled, until Spring 2025: Introduction to Data Science\nFully redesigned the course by transitioning all instructional materials from R to Python. Created lectures, labs, and projects that developed an end-to-end data analysis skill set—from data acquisition and wrangling to modeling and communication. Topics included regression, clustering, classification, algorithmic thinking, and analysis of non-standard data (networks, text). Integrated hands-on exercises to build computational proficiency and emphasize real-world applications.\n\n\nSTOR 455: Methods of Data Analysis (Fall 2024, Summer II 2025, Summer II 2026)\nTaught an upper-level statistics course covering topics such as inference, two-sample comparisons, correlation, regression modeling, and analysis of variance. Designed lectures and assessments to strengthen students’ understanding of statistical modeling and diagnostics, while guiding them in applying methods to real datasets using modern statistical software.\n\n\n\nTeaching Assistant / Lab Instructor\n\nSTOR 538: Sports Analytics (Spring 2024)\nSupported students in applying data science methods to real-world sports problems. Guided project development, held office hours, and provided feedback to strengthen both technical implementation and analytical interpretation.\n\n\nSTOR 120: Introduction to Data Science (Fall 2023, Spring 2023)\nLed weekly lab sessions to reinforce lecture material through hands-on coding in Python. Designed and graded lab assignments, and provided one-on-one support during office hours to help students build confidence with computational tools and statistical reasoning.\n\n\nSTOR 455: Methods of Data Analysis (Fall 2022)\nAssisted students in applying regression and inference methods using R. Held office hours and provided individualized support to strengthen statistical understanding and coding proficiency."
   },
   {
     "objectID": "teaching.html#awards-and-recognition",
@@ -70,10 +77,17 @@
     "text": "Ph.D. Candidate, Statistics and Operations Research\nUniversity of North Carolina at Chapel Hill\n\n\nI am a PhD candidate in the Statistics and Operations Research (STOR) Department at UNC–Chapel Hill, advised by Dr. Jan Hannig. My research focuses on developing interpretable statistical frameworks for elite athlete workload monitoring, with the goal of improving player performance and injury prevention.\nI also serve as Principal of the Sports Analytics Intelligence Lab (SAIL) at UNC, where I lead projects connecting statistical theory with real-world applications in sports analytics.\nBefore graduate school, I worked as a software engineer at Microsoft and earned dual Bachelor of Science degrees in Mathematics and Computer Science from Davidson College (2019)."
   },
   {
-    "objectID": "education.html#davidson-college",
-    "href": "education.html#davidson-college",
-    "title": "Education",
-    "section": "Davidson College",
-    "text": "Davidson College"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I entered college in the fall of 2015 not entirely sure what I wanted to study — I knew I was good at math, and I had committed to play soccer at Davidson College. However, before my freshman season, I tore my ACL, and over the next few years, I would re-tear it four more times — five ACL reconstructions in total.\nDuring my freshman year, I sought out Dr. Tim Chartier and joined ’Cats Stats, Davidson’s sports analytics group. Through ’Cats Stats, I discovered that I could make an impact for my team without physically being on the field — by using data to analyze performance and strategy.\n\n\n\n\nTo deepen that work, I began taking computer science courses alongside my math major, ultimately double majoring in Mathematics and Computer Science. I interned with Nike and Athlete Intelligence, where I explored the intersection of performance data, technology, and athlete development.\n\n\n\n\n\n\n\n\nAfter graduating, I joined Microsoft as a Software Engineer. I worked on the Azure Data Query Processing Team, focusing on query performance and leading supportability efforts. While I learned a tremendous amount about large-scale data systems, I missed the sports component — and I missed teaching.\n\n\n\n\nThat realization led me to pursue a Ph.D. in Statistics and Operations Research (STOR) at UNC Chapel Hill. During my Ph.D., I’ve taught several upper-level courses and fully redesigned STOR 320: Methods and Models of Data Science to introduce a Python-based section. I’ve found that I love teaching — especially where coding, statistics, and real-world application intersect.\n\n\n\n\n\n\n\n\nMy research centers on statistical methods in sports analytics, specifically modeling movement dynamics in female athletes to improve performance and reduce injury risk. I also lead the Sports Analytics Intelligence Lab (SAIL) at UNC, mentoring students working on projects for UNC’s athletic teams.\n\n\n\n\nWhen I’m not teaching or working on research, you’ll usually find me hiking, working out, or spending time with my dog, Willow. My fiancé, Eric, is a baseball coach at UVA, and we’re both originally from the Charlotte area. I’ve always enjoyed staying active — whether that’s lifting, cycling, or exploring new trails."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"images/kendall_thomas_cv.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   }
 ]

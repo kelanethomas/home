@@ -23,9 +23,9 @@ format: html
 ::: {style="text-align: center;"}
 This paper presents the quantile cube, a novel three-dimensional summary representation designed to analyze external load using GPS-derived movement data. While broadly applicable, we demonstrate its utility through an application to data from elite female soccer athletes across 23 matches. The quantile cube segments athlete movements into discrete quantiles of velocity, acceleration, and movement angle across match halves, providing a structured and interpretable framework to capture complex movement dynamics. Statistical analysis revealed significant differences in movement distributions between the first and second halves for individual athletes across all matches. Principal Component Analysis identified matches with unique movement dynamics, particularly at the start and end of the season. Dirichlet-multinomial regression further explored how factors such as athlete position, playing time, and match characteristics influenced movement profiles. Our analysis reveals external load variations over time and provides insights into performance optimization. The integration of these statistical techniques demonstrates the potential of data-driven strategies to enhance athlete monitoring and workload management in women's soccer.
 
-**[Full Paper](https://arxiv.org/abs/2503.11815)**
+**[Full Paper](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0014/html?srsltid=AfmBOoqJMiKLX8R-L2BCX1LCvFmzoXBDl9pGH5EnY25EG6fVt9IazHLS)**
 
-*Accepted to the Journal of Quantitative Analysis in Sports*
+*Appears in the Journal of Quantitative Analysis in Sports*
 :::
 
 ------------------------------------------------------------------------
@@ -40,11 +40,11 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 ### Recent Conference Presentations & Posters
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *ASA Virtual Sports Analytics Conference*, April 2026, Virtual
-    -   Presentation Slides
+    -   [Presentation Slides](vsac-2026.qmd)
 
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *Connecticut Sports Analytics Symposium*, April 2026, Storrs, CT
-    -   Presentation Slides
+    -   [Presentation Slides](csas-2026.qmd)
 
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *American Soccer Insights Summit*, January 2026, Houston, TX

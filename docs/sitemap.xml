@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kelanethomas.github.io/home/cv.html</loc>
-    <lastmod>2026-07-08T16:24:20.226Z</lastmod>
+    <loc>https://kelanethomas.github.io/home/vsac-2026.html</loc>
+    <lastmod>2026-07-08T16:31:12.415Z</lastmod>
   </url>
   <url>
-    <loc>https://kelanethomas.github.io/home/about.html</loc>
-    <lastmod>2026-07-08T16:20:09.879Z</lastmod>
+    <loc>https://kelanethomas.github.io/home/education.html</loc>
+    <lastmod>2026-04-25T16:49:40.605Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kelanethomas.github.io/home/csas-2026.html</loc>
+    <lastmod>2026-07-08T16:31:14.765Z</lastmod>
   </url>
   <url>
     <loc>https://kelanethomas.github.io/home/cmsac-2024.html</loc>
@@ -14,11 +18,11 @@
   </url>
   <url>
     <loc>https://kelanethomas.github.io/home/research.html</loc>
-    <lastmod>2026-07-08T16:18:35.890Z</lastmod>
+    <lastmod>2026-07-08T16:31:21.543Z</lastmod>
   </url>
   <url>
     <loc>https://kelanethomas.github.io/home/teaching.html</loc>
-    <lastmod>2026-07-08T15:46:13.314Z</lastmod>
+    <lastmod>2026-07-08T16:26:29.804Z</lastmod>
   </url>
   <url>
     <loc>https://kelanethomas.github.io/home/nessis-2025.html</loc>
@@ -33,7 +37,11 @@
     <lastmod>2026-07-08T15:49:40.039Z</lastmod>
   </url>
   <url>
-    <loc>https://kelanethomas.github.io/home/education.html</loc>
-    <lastmod>2026-04-25T16:49:40.605Z</lastmod>
+    <loc>https://kelanethomas.github.io/home/about.html</loc>
+    <lastmod>2026-07-08T16:20:09.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kelanethomas.github.io/home/cv.html</loc>
+    <lastmod>2026-07-08T16:24:20.226Z</lastmod>
   </url>
 </urlset>
