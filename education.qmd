@@ -10,7 +10,7 @@ format: html
 :::
 
 :::::: columns
-::: {.column width="60%" style="text-align:left;"}
+::: {.column style="width:60%; text-align:left;"}
 **Ph.D. Candidate**, Statistics and Operations Research (STOR)\
 *Expected May 2027*\
 Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)
@@ -30,7 +30,7 @@ Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)
 -   Excellence in Teaching Assistance and Instruction Award (Fall 2023)
 :::
 
-:::: {.column width="40%" style="align-items: center;"}
+:::: {.column style="width:40%; align-items: center;"}
 ::: {style="display: flex; justify-content: center;"}
 ![](images/old_well.jpg){fig-alt="UNC Chapel Hill Old Well" style="border-radius:12px; width:90%;"}
 :::
@@ -44,13 +44,13 @@ Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)
 :::
 
 :::::: columns
-:::: {.column width="40%" style="align-items: center;"}
+:::: {.column style="width:40%; align-items: center;"}
 ::: {style="display: flex; justify-content: center;"}
 ![](images/chambers.jpg){fig-alt="Davidson College Chambers Building" style="border-radius:12px; width:90%; margin:auto; display:block;"}
 :::
 ::::
 
-::: {.column width="60%" style="text-align:left;"}
+::: {.column style="width:60%; text-align:left;"}
 **B.S. Mathematics, B.S. Computer Science**\
 Magna Cum Laude (2019)
 
