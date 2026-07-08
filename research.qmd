@@ -1,114 +1,67 @@
 ---
-# ============================================================
-# PROJECTS PAGE (proj.qmd)
-# Showcases your work with embedded PDF previews so visitors
-# can read your reports directly on the page.
-# ============================================================
-
-title: "Projects"   # ✏️ Shown in the browser tab and page header
+title: "Research"
+page-layout: full
+format: html
 ---
 
-<!-- ============================================================
-  OPTIONAL: Short intro sentence at the top of the page.
-  ✏️ Replace or delete this.
-  Example: "Here's a selection of projects from my coursework and personal work."
-============================================================ -->
+::: {style="text-align: center;"}
+#### I study how data science and statistical modeling can help us better understand human performance and movement — particularly in elite female athletes.
+:::
 
-✏️ A brief intro about your projects goes here.
+------------------------------------------------------------------------
 
----
+::: {style="text-align: center;"}
+## Featured Research
+:::
 
-<!-- ============================================================
-  PROJECT 1
-  ✏️ Fill in every placeholder marked with ✏️
-  Copy this entire block (up to the next ---) to add more projects.
-============================================================ -->
+> ::: {style="text-align: center;"}
+> ## Movement Dynamics in Elite Female Soccer Athletes:
+>
+> ## The Quantile Cube Approach
+> :::
 
-## ✏️ Project Title
+::: {style="text-align: center;"}
+This paper presents the quantile cube, a novel three-dimensional summary representation designed to analyze external load using GPS-derived movement data. While broadly applicable, we demonstrate its utility through an application to data from elite female soccer athletes across 23 matches. The quantile cube segments athlete movements into discrete quantiles of velocity, acceleration, and movement angle across match halves, providing a structured and interpretable framework to capture complex movement dynamics. Statistical analysis revealed significant differences in movement distributions between the first and second halves for individual athletes across all matches. Principal Component Analysis identified matches with unique movement dynamics, particularly at the start and end of the season. Dirichlet-multinomial regression further explored how factors such as athlete position, playing time, and match characteristics influenced movement profiles. Our analysis reveals external load variations over time and provides insights into performance optimization. The integration of these statistical techniques demonstrates the potential of data-driven strategies to enhance athlete monitoring and workload management in women's soccer.
 
-**Course:** ✏️ COMP 101 — Introduction to Programming  
-**Date:** ✏️ Fall 2024  
-**Tags:** ✏️ `Python` `Data Analysis` `Visualization`
-<!-- Tags: just type whatever labels apply, wrapped in backticks like above -->
+**[Full Paper](https://arxiv.org/abs/2503.11815)**
 
-✏️ Write 2–3 sentences describing what this project is about, what problem
-it solves, and what tools or methods you used. Keep it approachable —
-imagine explaining it to someone outside your major.
+*Accepted to the Journal of Quantitative Analysis in Sports*
+:::
 
-<!-- PDF PREVIEW
-  - Replace "example_report.pdf" with your actual filename
-  - Make sure the PDF is saved in the same folder as this .qmd file
-  - width="100%" makes it stretch to fill the page column
-  - height="600px" controls how tall the preview box is — increase for longer docs
-  - The <p> fallback text shows only if the browser can't render the PDF inline
-    (uncommon, but good to have)
--->
-<iframe src="example_report.pdf"
-        width="100%"
-        height="600px"
-        style="border: 1px solid #ddd; border-radius: 4px;">
-  <p>Your browser can't preview PDFs.
-     <a href="✏️ example_report.pdf">Click here to download instead.</a>
-  </p>
-</iframe>
+------------------------------------------------------------------------
 
-<!-- OPTIONAL: direct download link below the preview -->
-[⬇ Download PDF](✏️ example_report.pdf)
+### Upcoming Invited Talk
 
----
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
+    -   Related Research Authors: Thomas, K. L., & Hannig, J.
+    -   Scheduled April 24–25, 2026 at the *ASA Virtual Sports Analytics Conference*
+    -   [Related Paper](https://arxiv.org/abs/2503.11815)
 
-<!-- ============================================================
-  PROJECT 2
-  ✏️ Same structure as above — fill in your details
-============================================================ -->
+### Recent Conference Presentations & Posters
 
-## ✏️ Project Title
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
+    -   *Connecticut Sports Analytics Symposium*, April 2026, Storrs, CT
+    -   Presentation Slides
 
-**Course:** ✏️ STOR 155 — Introduction to Statistics  
-**Date:** ✏️ Spring 2025  
-**Tags:** ✏️ `R` `Statistics` `ggplot2`
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
+    -   *American Soccer Insights Summit*, January 2026, Houston, TX
+    -   [Presentation Video](https://www.youtube.com/watch?v=ADwbuMcN12g&list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&index=11)
 
-✏️ Description of your second project goes here.
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
+    -   **First Place Poster Award**
+    -   *New England Symposium on Statistics in Sports*, September 2025, Boston, MA
+    -   [Poster](nessis-2025.qmd)
 
-<iframe src="example_report2.pdf"
-        width="100%"
-        height="600px"
-        style="border: 1px solid #ddd; border-radius: 4px;">
-  <p>Your browser can't preview PDFs.
-     <a href="✏️ example_report2.pdf">Click here to download instead.</a>
-  </p>
-</iframe>
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
+    -   Related Research Authors: Thomas, K. L., & Hannig, J.
+    -   *Midwest Sports Analytics Meeting*, November 2024, Virtual
 
-[⬇ Download PDF](✏️ example_report2.pdf)
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
+    -   **First Place Poster Award**
+    -   *Carnegie Mellon Sports Analytics Conference*, November 2024, Pittsburgh, PA
+    -   [Poster](cmsac-2024.qmd)
 
----
-
-<!-- ============================================================
-  PROJECT 3
-  ✏️ Same structure — delete this block entirely if you only have 2 projects
-============================================================ -->
-
-## ✏️ Project Title
-
-**Course:** ✏️ BIOL 201 — Cell Biology  
-**Date:** ✏️ Fall 2025  
-**Tags:** ✏️ `Research` `Lab Report` `Data Collection`
-
-✏️ Description of your third project goes here.
-
-<iframe src="example_report3.pdf"
-        width="100%"
-        height="600px"
-        style="border: 1px solid #ddd; border-radius: 4px;">
-  <p>Your browser can't preview PDFs.
-     <a href="✏️ example_report3.pdf">Click here to download instead.</a>
-  </p>
-</iframe>
-
-[⬇ Download PDF](✏️ example_report3.pdf)
-
-<!-- ============================================================
-  ADDING MORE PROJECTS LATER
-  To add a new project, copy everything between two --- dividers
-  and paste it at the bottom. Update all the ✏️ placeholders.
-============================================================ -->
+-   **"Professional vs. Elite Female Soccer Athletes: Physical and Technical Performance Characteristics"**
+    -   Cantú, E. I., Moore, S. R., Thomas, K. L. & Smith-Ryan, A. E., FNSCA.
+    -   *National Strength and Conditioning Association National Conference*, July 2024, Baltimore, MD
+    -   [Poster](nsca-2024.qmd)

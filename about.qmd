@@ -1,86 +1,98 @@
 ---
-# ============================================================
-# ABOUT ME PAGE (aboutme.qmd)
-# This is a Quarto Markdown file. You can mix regular text,
-# HTML, and special Quarto features on the same page.
-# The section between the --- lines is called the "front matter"
-# and controls page-level settings.
-# ============================================================
-
-title: "About Me"   # ✏️ This becomes the page title shown in the browser tab
+title: "About"
+format:
+  html:
+    page-layout: full
 ---
-
 ```{=html}
-<!-- ============================================================
-  PROFILE PHOTO
-  - Replace "headshot.jpg" with your actual image filename
-  - Make sure the image file is saved in the same folder as this .qmd file
-  - width/height control the display size (both set to 400px = square crop)
-  - object-position: "50% 32%" shifts the crop upward to better frame a face
-    → try "50% 50%" for dead center, or "50% 20%" to crop even higher
-  - border: adds a solid dark border around the photo
-  ============================================================ -->
+<style>
+  /* Forces the main content area to be 1200px and centered */
+  .quarto-container {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+  }
+  
+  /* Ensures the gallery at the bottom doesn't break out of that width */
+  .quarto-layout-panel {
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+  }
+
+  /* Vertical centering helper for columns */
+  .v-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+</style>
 ```
 
-<p style="text-align: center;">
+::::: columns
+::: {.column width="25%"}
+![](images/img_3277.jpg){fig-alt="small child soccer" style="border-radius:4px;"}
+:::
 
-<img src="headshot.jpg" width="400px" height="400px" style="object-fit: cover;
-              object-position: 50% 32%;
-              border: 3px solid #333;
-              margin-bottom: 30px;"/>
+::: {.column width="75%" style="padding-left: 10px;"}
+I entered college in the fall of 2015 not entirely sure what I wanted to study — I knew I was good at math, and I had committed to play soccer at Davidson College. However, before my freshman season, I tore my ACL, and over the next few years, I would re-tear it four more times — five ACL reconstructions in total. 
 
-</p>
+During my freshman year, I sought out Dr. Tim Chartier and joined 'Cats Stats, Davidson's sports analytics group. Through 'Cats Stats, I discovered that I could make an impact for my team *without physically being on the field* — by using data to analyze performance and strategy. 
+:::
+:::::
 
-```{=html}
-<!-- ============================================================
-  BIO / INTRODUCTION
-  ✏️ Replace the placeholder below with 2–4 sentences about yourself.
-  Example:
-    Hi! I'm Jane Smith, a second-year Computer Science student at UNC Chapel Hill.
-    I'm passionate about data visualization and building tools that make
-    information more accessible. Outside of class, I love hiking and photography.
-  ============================================================ -->
-```
+::::: columns
+::: {.column width="75%" style="padding-right: 20px;"}
+To deepen that work, I began taking computer science courses alongside my math major, ultimately double majoring in Mathematics and Computer Science. I interned with **Nike** and **Athlete Intelligence**, where I explored the intersection of performance data, technology, and athlete development.
+:::
 
-✏️ Write your bio here — who you are, what you study, and what you care about.
+::: {.column width="25%"}
+![](images/img_8193.jpg){fig-alt="Internship experience" style="border-radius:4px;"}
+:::
+:::::
 
-```{=html}
-<!-- ============================================================
-  RESUME LINK
-  - "Example Resume" is the clickable link text — ✏️ change to "My Resume" or similar
-  - example_resume.pdf is the filename — ✏️ rename to match your actual file
-  - Make sure your PDF is saved in the same folder as this .qmd file
-  ============================================================ -->
-```
+::::: columns
+::: {.column width="25%"}
+![](images/img_0587-2.jpeg){fig-alt="Microsoft" style="border-radius:4px;"}
+:::
 
-[✏️ My Resume](example_resume.pdf)
+::: {.column width="75%" style="padding-left: 20px; justify-content: center;"}
+After graduating, I joined **Microsoft** as a Software Engineer. I worked on the Azure Data Query Processing Team, focusing on query performance and leading supportability efforts. While I learned a tremendous amount about large-scale data systems, I missed the sports component — and I missed teaching.
+:::
+:::::
+::::: columns
+::: {.column width="75%" style="padding-right: 20px;"}
+That realization led me to pursue a Ph.D. in Statistics and Operations Research (STOR) at UNC Chapel Hill. During my Ph.D., I've taught several upper-level courses and fully redesigned **STOR 320: Methods and Models of Data Science** to introduce a Python-based section. I've found that I love teaching — especially where coding, statistics, and real-world application intersect.
+:::
 
-```{=html}
-<!-- ============================================================
-  LINK TO PROJECTS PAGE
-  - proj.qmd refers to your other page — leave this as-is unless you renamed that file
-  ============================================================ -->
-```
+::: {.column width="25%"}
+![](images/img_7796.jpg){fig-alt="UNC Teaching" style="border-radius:4px;"}
+:::
+:::::
 
-To view more information about my projects, please visit the [Projects](proj.qmd) tab.
 
-```{=html}
-<!-- ============================================================
-  CONTACT INFORMATION
-  ✏️ Replace every placeholder in angle brackets <> with your real info
+::::: columns
+::: {.column width="25%"}
+![](images/img_3485.jpg){fig-alt="SAIL research" style="border-radius:4px;"}
+:::
 
-  EMAIL:
-    - Replace <youremail> with your email address (appears twice — once as
-      display text, once as the mailto: link)
+::: {.column width="75%" style="padding-left: 20px;"}
+My research centers on statistical methods in sports analytics, specifically modeling movement dynamics in female athletes to improve performance and reduce injury risk. I also lead the **Sports Analytics Intelligence Lab (SAIL)** at UNC, mentoring students working on projects for UNC's athletic teams.
+:::
+:::::
 
-  LINKEDIN:
-    - Replace <yourname> with how you want your name to appear as link text
-    - Replace <copy link to linkedin> with your full LinkedIn URL
-      Example: https://www.linkedin.com/in/janesmith
-  ============================================================ -->
-```
+::::: columns
+::: {.column width="75%" style="padding-right: 20px; "}
+When I'm not teaching or working on research, you'll usually find me hiking, working out, or spending time with my dog, **Willow**. My partner, Eric, is a baseball coach at UVA, and we're both originally from the Charlotte area. I've always enjoyed staying active — whether that's lifting, cycling, or exploring new trails.
+:::
 
-**Contact Information:**
+::: {.column width="25%"}
+![](images/img_8203.jpg){fig-alt="Personal" style="width: 100%; border-radius:4px;"}
+:::
+:::::
 
--   Email: [kelanethomas\@gmail.com](mailto:kelanethomas@gmail.com)
--   LinkedIn: [Kendall Thomas](https://www.linkedin.com/in/kendall-thomas-5bb903114/)
+::: {layout-ncol="3"}
+![](images/img_5722.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+
+![](images/img_0166.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+
+![](images/img_8479.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+:::

@@ -1,0 +1,13 @@
+---
+title: "NESSIS 2025"
+---
+
+**First Place Poster Award** — *New England Symposium on Statistics in Sports*, September 2025, Boston, MA
+
+<iframe src="images/nessis_poster_kendall_thomas.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="images/nessis_poster_kendall_thomas.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](images/nessis_poster_kendall_thomas.pdf)

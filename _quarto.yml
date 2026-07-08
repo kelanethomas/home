@@ -4,59 +4,37 @@ project:
 
 website:
   title: "Kendall L. Thomas"
+  site-url: "https://kelanethomas.github.io/home/"
+
   search:
     location: navbar
     type: overlay
+
   page-navigation: true
 
   navbar:
     pinned: true
-    collapse: false
-    background: primary
-    search: true
-    right:
-      - text: "Home"
+    collapse: true
+    background: white
+    left:
+      - text: Home
         href: index.qmd
-      - text: "About"
+      - text: About
         href: about.qmd
-      - text: "Research"
+      - text: Education
+        href: education.qmd
+      - text: Research
         href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
-    toc: true
-    toc-location: right
-    header-includes:
-      - |
-        <style>
-          /* Full-width sticky header */
-          .sticky-header {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 0px 0;
-            font-size: 0em;
-            font-weight: bold;
-            z-index: 1000;
-            margin: 0;
-            box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
-          }
-          body {
-            margin-top: 0px;
-          }
-        </style>
-        <div class="sticky-header">
-          Kendall Thomas
-        </div>
-
-site-url: "https://kelanethomas.github.io/home/"
-repo-url: "https://github.com/kelanethomas/home"
-repo-actions: [edit, issue]
+    toc: false
+    smooth-scroll: true
 
 editor: visual

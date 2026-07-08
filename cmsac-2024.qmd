@@ -1,0 +1,13 @@
+---
+title: "CMSAC 2024"
+---
+
+**First Place Poster Award** — *Carnegie Mellon Sports Analytics Conference*, November 2024, Pittsburgh, PA
+
+<iframe src="images/poster_kendall_thomas.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="images/poster_kendall_thomas.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](images/poster_kendall_thomas.pdf)
