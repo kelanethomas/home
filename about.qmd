@@ -81,7 +81,7 @@ My research centers on statistical methods in sports analytics, specifically mod
 
 ::::: columns
 ::: {.column width="75%" style="padding-right: 20px; "}
-When I'm not teaching or working on research, you'll usually find me hiking, working out, or spending time with my dog, **Willow**. My partner, Eric, is a baseball coach at UVA, and we're both originally from the Charlotte area. I've always enjoyed staying active — whether that's lifting, cycling, or exploring new trails.
+When I'm not teaching or working on research, you'll usually find me hiking, working out, or spending time with my dog, **Willow**. My fiancé, Eric, is a baseball coach at UVA, and we're both originally from the Charlotte area. I've always enjoyed staying active — whether that's lifting, cycling, or exploring new trails.
 :::
 
 ::: {.column width="25%"}

@@ -32,12 +32,15 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 
 ### Upcoming Invited Talk
 
--   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
+-   **"Does Age Shape How Athletes Move? Extending the Quantile Cube Framework to Detect Age Effects in Movement Distribution Profiles"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
-    -   Scheduled April 24–25, 2026 at the *ASA Virtual Sports Analytics Conference*
-    -   [Related Paper](https://arxiv.org/abs/2503.11815)
+    -   Topic-Contributed Session: "Statistical Methods for Estimating Player Performance Across Ages and Leagues"
+    -   Scheduled August 3, 2026 at the *2026 Joint Statistical Meetings (JSM)*
 
 ### Recent Conference Presentations & Posters
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
+    -   *ASA Virtual Sports Analytics Conference*, April 2026, Virtual
+    -   Presentation Slides
 
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *Connecticut Sports Analytics Symposium*, April 2026, Storrs, CT
