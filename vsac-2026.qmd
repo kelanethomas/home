@@ -1,20 +1,11 @@
 ---
 title: "ASA Virtual Sports Analytics Conference 2026"
+css: pdf-page.css
 ---
 
 **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"** — *ASA Virtual Sports Analytics Conference*, April 2026, Virtual
 
-```{=html}
-<style>
-  #quarto-document-content {
-    width: 100% !important;
-    max-width: 950px !important;
-    margin: 0 auto !important;
-  }
-</style>
-```
-
-<iframe src="images/vsac_thomas_movement_dynamics.pdf" width="100%" height="90vh" style="min-height: 900px; border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="images/vsac_thomas_movement_dynamics.pdf" class="pdf-viewer">
 
 <p>Your browser can't preview PDFs. <a href="images/vsac_thomas_movement_dynamics.pdf">Click here to download instead.</a></p>
 
