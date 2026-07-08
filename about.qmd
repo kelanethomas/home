@@ -90,9 +90,9 @@ When I'm not teaching or working on research, you'll usually find me hiking, wor
 :::::
 
 ::: {layout-ncol="3"}
-![](images/img_5722.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+![](images/img_5722.jpg){fig-alt="Kendall with Eric and their dog Willow at a soccer game" style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
 
-![](images/img_0166.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+![](images/img_0166.jpg){fig-alt="Kendall with family in front of a waterfall at Yellowstone" style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
 
-![](images/img_8479.jpg){style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
+![](images/img_8479.jpg){fig-alt="Kendall and Eric at a Duke football event" style="height: 350px; width: 100%; object-fit: cover; border-radius: 2px;"}
 :::

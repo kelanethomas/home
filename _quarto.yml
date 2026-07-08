@@ -5,6 +5,12 @@ project:
 website:
   title: "Kendall L. Thomas"
   site-url: "https://kelanethomas.github.io/home/"
+  favicon: images/favicon.png
+  description: "Kendall L. Thomas is a PhD candidate in Statistics and Operations Research at UNC-Chapel Hill, researching statistical methods for sports analytics and athlete movement dynamics."
+  open-graph:
+    image: images/headshot.jpg
+  twitter-card:
+    image: images/headshot.jpg
 
   search:
     location: navbar
