@@ -20,7 +20,7 @@ Dissertation: *Statistical Frontiers in Elite Athlete Performance*
 
 **Leadership**
 
--   Principal, [Sports Analytics Intelligence Lab (SAIL)](https://supermariogiacomazzo.github.io/sports-analytics-intelligence-laboratory/)
+-   Principal, [Sports Analytics Intelligence Lab (SAIL)](https://sports-analytics-intelligence-lab.github.io/SAIL-Website/)
 -   Graduate Student Liaison, STOR Department
 
 **Fellowships & Travel Awards**

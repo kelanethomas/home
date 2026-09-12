@@ -29,7 +29,7 @@ University of North Carolina at Chapel Hill
 
 I am a **PhD candidate** in the Statistics and Operations Research (STOR) Department at UNC–Chapel Hill, advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu). My research focuses on developing interpretable statistical frameworks for elite athlete workload monitoring, with the goal of improving player performance and injury prevention.
 
-I also serve as **Principal** of the [Sports Analytics Intelligence Lab (SAIL)](https://supermariogiacomazzo.github.io/sports-analytics-intelligence-laboratory/) at UNC, where I lead projects connecting statistical theory with real-world applications in sports analytics.
+I also serve as **Principal** of the [Sports Analytics Intelligence Lab (SAIL)](https://sports-analytics-intelligence-lab.github.io/SAIL-Website/) at UNC, where I lead projects connecting statistical theory with real-world applications in sports analytics.
 
 Before graduate school, I worked as a software engineer at **Microsoft** and earned dual Bachelor of Science degrees in Mathematics and Computer Science from **Davidson College** (2019).
 
