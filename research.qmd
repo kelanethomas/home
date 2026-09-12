@@ -76,6 +76,7 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
     -   *CoreAI UNC Research Showcase*, February 2026, Chapel Hill, NC
     -   Thomas, K. L., & Hannig, J.
+    -   [Poster](images/nessis_poster_kendall_thomas.pdf)
 
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
     -   **First Place Poster Award**
