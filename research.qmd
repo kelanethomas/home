@@ -23,21 +23,43 @@ format: html
 ::: {style="text-align: center;"}
 This paper presents the quantile cube, a novel three-dimensional summary representation designed to analyze external load using GPS-derived movement data. While broadly applicable, we demonstrate its utility through an application to data from elite female soccer athletes across 23 matches. The quantile cube segments athlete movements into discrete quantiles of velocity, acceleration, and movement angle across match halves, providing a structured and interpretable framework to capture complex movement dynamics. Statistical analysis revealed significant differences in movement distributions between the first and second halves for individual athletes across all matches. Principal Component Analysis identified matches with unique movement dynamics, particularly at the start and end of the season. Dirichlet-multinomial regression further explored how factors such as athlete position, playing time, and match characteristics influenced movement profiles. Our analysis reveals external load variations over time and provides insights into performance optimization. The integration of these statistical techniques demonstrates the potential of data-driven strategies to enhance athlete monitoring and workload management in women's soccer.
 
-**[Full Paper](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-0014/html?srsltid=AfmBOoqJMiKLX8R-L2BCX1LCvFmzoXBDl9pGH5EnY25EG6fVt9IazHLS)**
+**[Full Paper](https://doi.org/10.1515/jqas-2025-0014)**
 
-*Appears in the Journal of Quantitative Analysis in Sports*
+*Published in the Journal of Quantitative Analysis in Sports (2025)*
 :::
 
 ------------------------------------------------------------------------
 
-### Upcoming Invited Talk
+### Working Paper
+
+-   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data: Theory and Application"**
+    -   Thomas, K. L., & Hannig, J.
+    -   Manuscript in preparation for the *Annals of Applied Statistics*
+
+### Software
+
+-   **[quantile-cube](https://pypi.org/project/quantile-cube/)** — a Python package for visualizing quantile-based movement distributions
+
+------------------------------------------------------------------------
+
+### Upcoming Invited Talks
+
+-   **Keynote Speaker**
+    -   *Midwest Sports Analytics Meeting*, Virtual
+    -   Scheduled November 2026
+
+-   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
+    -   Related Research Authors: Thomas, K. L., & Hannig, J.
+    -   *Advances in Interdisciplinary Statistics and Combinatorics (AISC) Conference*, Lafayette, LA
+    -   Scheduled October 30–November 1, 2026
+
+### Recent Conference Presentations & Posters
 
 -   **"Does Age Shape How Athletes Move? Extending the Quantile Cube Framework to Detect Age Effects in Movement Distribution Profiles"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
     -   Topic-Contributed Session: "Statistical Methods for Estimating Player Performance Across Ages and Leagues"
-    -   Scheduled August 3, 2026 at the *2026 Joint Statistical Meetings (JSM)*
+    -   *Joint Statistical Meetings (JSM)*, August 2026, Boston, MA
 
-### Recent Conference Presentations & Posters
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *ASA Virtual Sports Analytics Conference*, April 2026, Virtual
     -   [Presentation Slides](vsac-2026.qmd)
@@ -49,6 +71,10 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"**
     -   *American Soccer Insights Summit*, January 2026, Houston, TX
     -   [Presentation Video](https://www.youtube.com/watch?v=ADwbuMcN12g&list=PLooHGtwuMu4XnxRexiC_56W2Bz5hng4Cy&index=11)
+
+-   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
+    -   *CoreAI UNC Research Showcase*, February 2026, Chapel Hill, NC
+    -   Thomas, K. L., & Hannig, J.
 
 -   **"Analyzing Movement Dynamics in Elite Female Soccer Athletes"**
     -   **First Place Poster Award**

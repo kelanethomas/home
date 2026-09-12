@@ -13,7 +13,8 @@ format: html
 ::: {.column style="width:60%; text-align:left;"}
 **Ph.D. Candidate**, Statistics and Operations Research (STOR)\
 *Expected May 2027*\
-Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)
+Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)\
+Dissertation: *Statistical Frontiers in Elite Athlete Performance*
 
 **M.S. Statistics, Analytics, and Data Science**, *Dec. 2025*
 
@@ -22,12 +23,19 @@ Advised by [Dr. Jan Hannig](https://hannig.cloudapps.unc.edu)
 -   Principal, [Sports Analytics Intelligence Lab (SAIL)](https://supermariogiacomazzo.github.io/sports-analytics-intelligence-laboratory/)
 -   Graduate Student Liaison, STOR Department
 
-**Awards**
+**Fellowships & Travel Awards**
 
--   Druscilla French Graduate Student Excellence Award\
-    (Fall 2025 - Spring 2026)\
--   Walter Deemer Excellence in Teaching Award (Fall 2024)\
--   Excellence in Teaching Assistance and Instruction Award (Fall 2023)
+-   Druscilla French Graduate Student Excellence Fund Award, $5,000 (Aug. 2025 – May 2026)
+-   Raj Chandra Bose Graduate Student Travel Fund, $1,000 (Jan. 2026)
+-   The Graduate School Transportation Grant, $400 (Jan. 2026)
+-   John McNeely DuBose Graduate Fellowship Fund, $650 (June 2026)
+-   Raj Chandra Bose Graduate Student Travel Fund, $750 (Dec. 2024)
+
+**Honors**
+
+-   Boka W. Hadzija Award for Distinguished University Service Nominee (Spring 2026)
+-   Walter Deemer Excellence in Teaching Award (Dec. 2024)
+-   Excellence in Teaching Assistance and Instruction Award (Dec. 2023)
 :::
 
 :::: {.column style="width:40%; align-items: center;"}

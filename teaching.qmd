@@ -26,6 +26,10 @@ Fully redesigned the course by transitioning all instructional materials from R 
 
 Taught an upper-level statistics course covering topics such as inference, two-sample comparisons, correlation, regression modeling, and analysis of variance. Designed lectures and assessments to strengthen students' understanding of statistical modeling and diagnostics, while guiding them in applying methods to real datasets using modern statistical software.
 
+#### STOR 290: *Sports Analytics Intelligence Lab* (Fall 2025–Present)
+
+Co-developed with Dr. Mario Giacomazzo a new 3-credit, for-credit course transforming the Sports Analytics Intelligence Lab (SAIL) into an official course offering. Students work on real projects for UNC athletic programs and external partners, formulating research questions, selecting appropriate methods, interpreting results, and communicating findings to non-technical audiences. Built the curriculum around staged research milestones with feedback and revision required at each stage, alongside weekly data science lectures (Shiny, version control, model building, visualization, web scraping) and oral presentation requirements.
+
 ### Teaching Assistant / Lab Instructor
 
 #### STOR 538: *Sports Analytics* (Spring 2024)
@@ -44,5 +48,6 @@ Assisted students in applying regression and inference methods using R. Held off
 
 ## Awards and Recognition
 
--   2024 STOR Department Excellence in Teaching Award
--   2023 STOR Department Excellence in Teaching Assistance & Instruction Award
+-   Boka W. Hadzija Award for Distinguished University Service Nominee (Spring 2026), nominated by the UNC Department of Statistics and Operations Research
+-   Walter Deemer Excellence in Teaching Award (Dec. 2024), UNC Department of Statistics and Operations Research
+-   Excellence in Teaching Assistance and Instruction Award (Dec. 2023), UNC Department of Statistics and Operations Research
