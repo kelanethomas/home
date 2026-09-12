@@ -16,6 +16,10 @@ University of North Carolina at Chapel Hill, Department of Statistics and Operat
 
 ### Instructor of Record
 
+#### STOR 290: *Sports Analytics Intelligence Lab* (Fall 2025–Present)
+
+Co-developed with Dr. Mario Giacomazzo a new 3-credit, for-credit course transforming the Sports Analytics Intelligence Lab (SAIL) into an official course offering. Students work on real projects for UNC athletic programs and external partners, formulating research questions, selecting appropriate methods, interpreting results, and communicating findings to non-technical audiences. Built the curriculum around staged research milestones with feedback and revision required at each stage, alongside weekly data science lectures (Shiny, version control, model building, visualization, web scraping) and oral presentation requirements.
+
 #### STOR 320: *Models and Methods of Data Science* (Summer II 2024, Spring 2025, Spring 2026)
 
 *Formerly titled, until Spring 2025: Introduction to Data Science*
@@ -25,10 +29,6 @@ Fully redesigned the course by transitioning all instructional materials from R 
 #### STOR 455: *Methods of Data Analysis* (Fall 2024, Summer II 2025, Summer II 2026)
 
 Taught an upper-level statistics course covering topics such as inference, two-sample comparisons, correlation, regression modeling, and analysis of variance. Designed lectures and assessments to strengthen students' understanding of statistical modeling and diagnostics, while guiding them in applying methods to real datasets using modern statistical software.
-
-#### STOR 290: *Sports Analytics Intelligence Lab* (Fall 2025–Present)
-
-Co-developed with Dr. Mario Giacomazzo a new 3-credit, for-credit course transforming the Sports Analytics Intelligence Lab (SAIL) into an official course offering. Students work on real projects for UNC athletic programs and external partners, formulating research questions, selecting appropriate methods, interpreting results, and communicating findings to non-technical audiences. Built the curriculum around staged research milestones with feedback and revision required at each stage, alongside weekly data science lectures (Shiny, version control, model building, visualization, web scraping) and oral presentation requirements.
 
 ### Teaching Assistant / Lab Instructor
 
