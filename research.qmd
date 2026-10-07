@@ -25,7 +25,7 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 
 **[Full Paper](https://doi.org/10.1515/jqas-2025-0014)**
 
-*Published in the Journal of Quantitative Analysis in Sports (2025)*
+*Published in the Journal of Quantitative Analysis in Sports (2026)*
 :::
 
 ------------------------------------------------------------------------
