@@ -16,7 +16,7 @@ University of North Carolina at Chapel Hill, Department of Statistics and Operat
 
 ### Instructor of Record
 
-#### STOR 290: *Sports Analytics Intelligence Lab* (Fall 2025–Present)
+#### STOR 290: *Sports Analytics Intelligence Lab* (Fall 2026)
 
 Co-developed with Dr. Mario Giacomazzo a new 3-credit, for-credit course transforming the Sports Analytics Intelligence Lab (SAIL) into an official course offering. Students work on real projects for UNC athletic programs and external partners, formulating research questions, selecting appropriate methods, interpreting results, and communicating findings to non-technical audiences. Built the curriculum around staged research milestones with feedback and revision required at each stage, alongside weekly data science lectures (Shiny, version control, model building, visualization, web scraping) and oral presentation requirements.
 
