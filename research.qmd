@@ -34,7 +34,8 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data: Theory and Application"**
     -   Thomas, K. L., & Hannig, J.
-    -   Manuscript in preparation for the *Annals of Applied Statistics*
+    -   Preprint available; in preparation for the *Annals of Applied Statistics*
+    -   [arXiv](https://arxiv.org/abs/2609.38611) | [PDF](https://arxiv.org/pdf/2609.38611) | [Code](https://github.com/kelanethomas/hgfi-count-data)
 
 ### Software
 
