@@ -14,3 +14,10 @@
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+/* Landscape PDFs (e.g. 3:2 posters); extra height covers the viewer toolbar. */
+.pdf-viewer.pdf-viewer-landscape {
+  height: auto;
+  min-height: 0;
+  aspect-ratio: 1.4;
+}
