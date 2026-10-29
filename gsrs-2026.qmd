@@ -1,0 +1,16 @@
+---
+title: "Graduate Research Symposium 2026"
+css: pdf-page.css
+---
+
+**"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"** — *Graduate Research Symposium*, October 2026, University of North Carolina at Chapel Hill
+
+![](images/gsrs_poster_photo.jpg){fig-alt="Kendall Thomas standing next to her poster at the UNC Graduate Research Symposium" style="border-radius:4px; width:100%; max-width:600px;"}
+
+<iframe src="images/hgfi_poster.pdf" class="pdf-viewer">
+
+<p>Your browser can't preview PDFs. <a href="images/hgfi_poster.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](images/hgfi_poster.pdf)

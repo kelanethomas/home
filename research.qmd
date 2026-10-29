@@ -57,6 +57,16 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 
 ### Recent Conference Presentations & Posters
 
+-   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
+    -   Featured Research Talk
+    -   *STOR Graduate Student Showcase*, October 2026, Chapel Hill, NC
+    -   [Presentation Slides](stor-showcase-2026.qmd)
+
+-   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
+    -   Thomas, K. L., & Hannig, J.
+    -   [*Graduate Research Symposium*](https://gradschool.unc.edu/students/events/graduate-research-symposium/), October 2026, Chapel Hill, NC
+    -   [Poster](gsrs-2026.qmd)
+
 -   **"Does Age Shape How Athletes Move? Extending the Quantile Cube Framework to Detect Age Effects in Movement Distribution Profiles"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
     -   Topic-Contributed Session: "Statistical Methods for Estimating Player Performance Across Ages and Leagues"
