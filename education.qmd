@@ -22,9 +22,11 @@ Dissertation: *Statistical Frontiers in Elite Athlete Performance*
 
 -   Principal, [Sports Analytics Intelligence Lab (SAIL)](https://sports-analytics-intelligence-lab.github.io/SAIL-Website/)
 -   Graduate Student Liaison, STOR Department
+-   Graduate Student Mentor, STOR Department
 
 **Fellowships & Travel Awards**
 
+-   Member Initiative Grant, Principal Investigator, American Statistical Association Section on Statistics and Data Science Education, supporting SAIL (Oct. 2026)
 -   Druscilla French Graduate Student Excellence Fund Award (Aug. 2025 – May 2026)
 -   Raj Chandra Bose Graduate Student Travel Fund (Jan. 2026)
 -   The Graduate School Transportation Grant (Jan. 2026)
