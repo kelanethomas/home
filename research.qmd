@@ -50,14 +50,14 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
     -   *Midwest Sports Analytics Meeting*, Virtual
     -   Scheduled November 2026
 
+-   **"Precision in Motion: From Athlete to Analyst"**
+    -   *Sports Analytics Intelligence Lab (SAIL) Speaker Series*, Chapel Hill, NC
+    -   Scheduled November 11, 2026
+
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
     -   *Advances in Interdisciplinary Statistics and Combinatorics (AISC) Conference*, Lafayette, LA
     -   Scheduled October 30–November 1, 2026
-
--   **"Precision in Motion: From Athlete to Analyst"**
-    -   *Sports Analytics Intelligence Lab (SAIL) Speaker Series*, Chapel Hill, NC
-    -   Scheduled November 11, 2026
 
 ### Recent Conference Presentations & Posters
 
