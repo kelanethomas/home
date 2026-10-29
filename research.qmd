@@ -48,7 +48,7 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 -   **"Precision in Motion: From Athlete to Analyst"**
     -   Keynote Speaker
     -   *Midwest Sports Analytics Meeting*, Virtual
-    -   Scheduled November 2026
+    -   Scheduled November 21, 2026
 
 -   **"Precision in Motion: From Athlete to Analyst"**
     -   *Sports Analytics Intelligence Lab (SAIL) Speaker Series*, Chapel Hill, NC
