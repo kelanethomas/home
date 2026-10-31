@@ -59,6 +59,7 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
     -   *International Conference on Advances in Interdisciplinary Statistics and Combinatorics*, October 30, 2026, Lafayette, LA
+    -   [Presentation Slides](icaisc-2026.qmd)
 
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
     -   Featured Research Talk
