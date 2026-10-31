@@ -3,7 +3,7 @@ title: "Connecticut Sports Analytics Symposium 2026"
 css: pdf-page.css
 ---
 
-**"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"** — *Connecticut Sports Analytics Symposium*, April 2026, Storrs, CT
+**"Analyzing Movement Dynamics in Elite Female Soccer Athletes: The Quantile Cube Approach"** — April 2026, Storrs, CT
 
 <iframe src="images/thomas_movement_dynamics_csas.pdf" class="pdf-viewer">
 

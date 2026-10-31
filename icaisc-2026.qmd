@@ -3,7 +3,7 @@ title: "International Conference on Advances in Interdisciplinary Statistics and
 css: pdf-page.css
 ---
 
-**"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"** — *International Conference on Advances in Interdisciplinary Statistics and Combinatorics*, October 30, 2026, Lafayette, LA
+**"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"** — October 30, 2026, Lafayette, LA
 
 <iframe src="images/icaisc_2026.pdf" class="pdf-viewer">
 

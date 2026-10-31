@@ -3,7 +3,7 @@ title: "Joint Statistical Meetings (JSM) 2026"
 css: pdf-page.css
 ---
 
-**"Does Age Shape How Athletes Move? Extending the Quantile Cube Framework to Detect Age Effects in Movement Distribution Profiles"** — *Joint Statistical Meetings (JSM)*, August 2026, Boston, MA
+**"Does Age Shape How Athletes Move? Extending the Quantile Cube Framework to Detect Age Effects in Movement Distribution Profiles"** — August 2026, Boston, MA
 
 <iframe src="images/jsm_2026.pdf" class="pdf-viewer">
 
