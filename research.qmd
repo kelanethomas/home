@@ -54,12 +54,11 @@ This paper presents the quantile cube, a novel three-dimensional summary represe
     -   *Sports Analytics Intelligence Lab (SAIL) Speaker Series*, Chapel Hill, NC
     -   Scheduled November 11, 2026
 
+### Recent Conference Presentations & Posters
+
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
     -   Related Research Authors: Thomas, K. L., & Hannig, J.
-    -   *Advances in Interdisciplinary Statistics and Combinatorics (AISC) Conference*, Lafayette, LA
-    -   Scheduled October 30–November 1, 2026
-
-### Recent Conference Presentations & Posters
+    -   *International Conference on Advances in Interdisciplinary Statistics and Combinatorics*, October 30, 2026, Lafayette, LA
 
 -   **"Generalized Fiducial Inference for Hybrid Discrete–Continuous Count Data"**
     -   Featured Research Talk
